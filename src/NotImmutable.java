@@ -18,6 +18,6 @@ public class NotImmutable {
             StringBuilder gotBuilder = problem.getBuilder();
             gotBuilder.append(" more");
             System.out.println(problem.getBuilder());
-
-
         }}
+
+//initial
